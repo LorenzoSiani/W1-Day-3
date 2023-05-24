@@ -1,0 +1,54 @@
+header {
+    text-align: center;
+}
+
+header img {
+    width: 150px;
+}
+
+header p {
+    color: #004d4c;
+    margin: auto;
+}
+
+header div {
+    background-color: #fdfbf1;
+}
+
+header hr {
+    color: yellow;
+}
+
+.img-desc {
+    color: #999999;
+    text-align: center;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto; 
+    
+}  
+
+.container-items {
+    width: 100%;
+    height: 100%;
+  
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+h4 {
+    font-size: 22px;
+}
+
+    
+
+
